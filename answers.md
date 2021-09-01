@@ -53,6 +53,12 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+Answer 8:
+commit cc8cae37fd3d1c4a26c967991fe104bcc8edfff8 (HEAD -> master)
+Author: newmanpj21 <pjn@lawsononline.net>
+Date:   Wed Sep 1 17:56:41 2021 -0400
+
+    Initial Commit
 
 
 
